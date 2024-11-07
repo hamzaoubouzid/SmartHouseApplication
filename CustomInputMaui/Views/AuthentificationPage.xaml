@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomInputMaui.Views.AuthentificationPage"
+             Shell.NavBarIsVisible="False"
+             xmlns:controls="clr-namespace:SmartHouseApp.Controls"
+             Title="AuthentificationPage">
+    <Grid>
+        <Image
+    Source="imagelogin.png"
+    Aspect="AspectFill"
+    HorizontalOptions="FillAndExpand"
+    VerticalOptions="FillAndExpand" />
+
+        <!--Image Back-->
+        <ScrollView>
+            <VerticalStackLayout Padding="30,30" Spacing="25">
+                <Image
+                Source="homescreen.png"
+                Aspect="AspectFill"
+                HeightRequest="100"
+                WidthRequest="310" />
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <!--Content  screen -->
+        <StackLayout
+                 VerticalOptions="EndAndExpand"
+                 Grid.Row="2"
+                 Grid.RowSpan="2"
+                 Spacing="8">
+            <Grid>
+                <Image
+                    Source="shadow.png"
+                    Aspect="AspectFill"
+                    HorizontalOptions="FillAndExpand"
+                    HeightRequest="400" />
+
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="45" />
+                        <RowDefinition Height="45" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                <Label
+                    Grid.Row="0"
+                    Margin="40,20,0,0"
+                    Text="Sign into"
+                    TextColor="White"
+                    FontSize="20"
+                    FontFamily="Bold"
+                    HorizontalOptions="Start" />
+
+                <Label
+                    Grid.Row="1"
+                    Margin="20,0"
+                    Text="Mange your device and accessory"
+                    TextColor="White"
+                    FontSize="20"
+                    FontFamily="bold"
+                    HorizontalOptions="Center" />
+
+                <controls:CustomEntry 
+                    Placeholder="    Email"
+                    Keyboard="Email"
+                    Text="{Binding Email}"
+                    Margin="10,10"
+                    BorderColor="White" 
+                    BorderThickness="2" 
+                    CornerRadius="10" 
+                    Grid.Row="2"
+                    HeightRequest="60">
+                    </controls:CustomEntry>
+
+                <controls:CustomEntry 
+                    Placeholder="    Password"
+                    Keyboard="Text"
+                    Text="{Binding Password}" 
+                    IsPassword="False"
+                    Margin="10,10"
+                    BorderColor="White" 
+                    BorderThickness="2" 
+                    CornerRadius="10" 
+                    Grid.Row="3"
+                    HeightRequest="60">
+                    </controls:CustomEntry>
+
+                <Button   Margin="10,10" 
+                          Text="Log In"  
+                          Command="{Binding LoginCommand}"
+                          FontAttributes="Bold"  
+                          TextColor="Black" 
+                          VerticalOptions="Center" 
+                          Grid.Row="4">
+                        <VisualStateManager.VisualStateGroups>
+                            <VisualStateGroupList>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal">
+                                        <VisualState.Setters>
+                                            <Setter Property="Scale"
+                            Value="1" />
+                                        </VisualState.Setters>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed">
+                                        <VisualState.Setters>
+                                            <Setter Property="Scale"
+                            Value="0.8" />
+                                        </VisualState.Setters>
+                                    </VisualState>
+                                    <VisualState x:Name="PointerOver" />
+                                </VisualStateGroup>
+                            </VisualStateGroupList>
+                        </VisualStateManager.VisualStateGroups>
+                    </Button>
+
+                    <Label
+                        Grid.Row="5"
+                        Margin="20,0,0,6"
+                        Text="don’t have an account yet?"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        TextColor="White"
+                        FontSize="16"
+                        FontFamily="Bold"
+                    />
+                    <Label Grid.Row="6"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        Text="Create an Account"
+                        TextColor="White"
+                        FontSize="16"
+                        FontFamily="bold">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer  />
+                        </Label.GestureRecognizers>
+                    </Label>
+                </Grid>
+            </Grid>
+        </StackLayout>
+    </Grid>
+</ContentPage>
