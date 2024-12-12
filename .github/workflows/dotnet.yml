@@ -11,9 +11,7 @@ on:
 
 jobs:
   build:
-
-    runs-on: ubuntu-latest
-
+    runs-on: macos-latest  # Switch to macOS runner for iOS builds
     steps:
     - uses: actions/checkout@v4
     - name: Setup .NET
@@ -21,10 +19,11 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: restore workload
-      run: dotnet workload restore 
+      run: dotnet workload restore
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build CustomInputMaui/SmartHouseApp.csproj -c Release -f net7.0-android --no-restore
+      run: dotnet build CustomInputMaui/SmartHouseApp.csproj -c Release -f net8.0-ios --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
+
