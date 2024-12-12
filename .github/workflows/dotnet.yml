@@ -23,7 +23,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build CustomInputMaui/SmartHouseApp.csproj -c Release -f net8.0-ios --no-restore
+      run: dotnet build CustomInputMaui/SmartHouseApp.csproj -c Release -f net7.0-ios --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
 
