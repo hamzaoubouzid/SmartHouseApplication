@@ -45,9 +45,9 @@
                     FontSize="34"
                     FontAttributes="Bold"
                     FontFamily="Bold" />
-                
                 <Frame   
                         WidthRequest="120"
+                    Margin="0,0,20,14"
                         HeightRequest="120"
                         CornerRadius="80"  
                         HasShadow="False"
@@ -57,7 +57,7 @@
                         BackgroundColor="#E2FFA3"
                         Padding="0">
                     <Label 
-                        Text="LIFX LED Light"
+                        Text="Device 1"
                         HorizontalOptions="Center"
                         VerticalOptions="Center"
                         TextColor="Black"
@@ -67,10 +67,10 @@
                         MaxLines="2"
                         LineBreakMode="TailTruncation" />
                 </Frame>
-
                 <Frame   
                          WidthRequest="120"
                          HeightRequest="120"
+                         Margin="0,0,50,10"
                          CornerRadius="80"  
                          HasShadow="False"
                          HorizontalOptions="Center"
@@ -79,7 +79,7 @@
                          BackgroundColor="#E2FFA3"
                          Padding="0">
                     <Label 
-                         Text="LIFX LED Light"
+                         Text="Device 2"
                          HorizontalOptions="Center"
                          VerticalOptions="Center"
                          TextColor="Black"
@@ -90,6 +90,28 @@
                          LineBreakMode="TailTruncation" />
                 </Frame>
 
+                <Frame   
+                       WidthRequest="120"
+                    Margin="20,20,0,0"
+                       HeightRequest="120"
+                       CornerRadius="80"  
+                       HasShadow="False"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Start"
+                       IsClippedToBounds="True"
+                       BackgroundColor="#E2FFA3"
+                       Padding="0">
+                                <Label 
+                       Text="Device 3"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       TextColor="Black"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       FontFamily="Bold"
+                       MaxLines="2"
+                       LineBreakMode="TailTruncation" />
+                </Frame>
             </StackLayout>
         </Grid>
 
@@ -110,7 +132,5 @@
                 </Frame>
             </StackLayout>
         </Grid>
-        
-        
     </Grid>
 </ContentPage>

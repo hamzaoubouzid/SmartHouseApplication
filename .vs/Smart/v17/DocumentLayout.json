@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\smarthouseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\smarthouseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\smarthouseapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\smarthouseapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\viewmodels\\authentificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\viewmodels\\authentificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\platforms\\ios\\customentrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\platforms\\ios\\customentrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\platforms\\android\\customentrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\platforms\\android\\customentrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\controls\\customentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\controls\\customentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\controls\\cornerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\controls\\cornerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\views\\authentificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\views\\authentificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\views\\authentificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\views\\authentificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\viewmodels\\dashbordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\viewmodels\\dashbordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\views\\dashbordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\views\\dashbordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|c:\\users\\user\\desktop\\projects\\smarthouse\\custominputmaui\\views\\dashbordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7855A4F-40C5-4E0A-9930-CF3CC9C4539F}|CustomInputMaui\\SmartHouseApp.csproj|solutionrelative:custominputmaui\\views\\dashbordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartHouseApp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\SmartHouseApp.csproj",
+              "RelativeDocumentMoniker": "CustomInputMaui\\SmartHouseApp.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\SmartHouseApp.csproj",
+              "RelativeToolTip": "CustomInputMaui\\SmartHouseApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T14:07:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartHouseApp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\SmartHouseApp.csproj",
+              "RelativeDocumentMoniker": "CustomInputMaui\\SmartHouseApp.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\SmartHouseApp.csproj",
+              "RelativeToolTip": "CustomInputMaui\\SmartHouseApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T14:07:06.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomEntryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\iOS\\CustomEntryMapper.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Platforms\\iOS\\CustomEntryMapper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\iOS\\CustomEntryMapper.cs",
+              "RelativeToolTip": "CustomInputMaui\\Platforms\\iOS\\CustomEntryMapper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:39:47.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\MauiProgram.cs",
+              "RelativeToolTip": "CustomInputMaui\\MauiProgram.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:38:22.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CornerView.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Controls\\CornerView.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Controls\\CornerView.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Controls\\CornerView.cs",
+              "RelativeToolTip": "CustomInputMaui\\Controls\\CornerView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:32:05.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "CustomInputMaui\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:24:24.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "CustomInputMaui\\Platforms\\iOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:24:21.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthentificationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\ViewModels\\AuthentificationViewModel.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\ViewModels\\AuthentificationViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\ViewModels\\AuthentificationViewModel.cs",
+              "RelativeToolTip": "CustomInputMaui\\ViewModels\\AuthentificationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:46:38.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomEntryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\Android\\CustomEntryMapper.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Platforms\\Android\\CustomEntryMapper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\Android\\CustomEntryMapper.cs",
+              "RelativeToolTip": "CustomInputMaui\\Platforms\\Android\\CustomEntryMapper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:39:35.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "CustomInputMaui\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:39:41.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "CustomInputMaui\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:39:42.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthentificationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Views\\AuthentificationPage.xaml",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Views\\AuthentificationPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Views\\AuthentificationPage.xaml",
+              "RelativeToolTip": "CustomInputMaui\\Views\\AuthentificationPage.xaml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T19:33:15.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashbordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\ViewModels\\DashbordViewModel.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\ViewModels\\DashbordViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\ViewModels\\DashbordViewModel.cs",
+              "RelativeToolTip": "CustomInputMaui\\ViewModels\\DashbordViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:37:05.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashbordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Views\\DashbordPage.xaml",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Views\\DashbordPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Views\\DashbordPage.xaml",
+              "RelativeToolTip": "CustomInputMaui\\Views\\DashbordPage.xaml",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwF4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T18:43:31.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthentificationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Views\\AuthentificationPage.xaml.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Views\\AuthentificationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Views\\AuthentificationPage.xaml.cs",
+              "RelativeToolTip": "CustomInputMaui\\Views\\AuthentificationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:50:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomEntry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Controls\\CustomEntry.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Controls\\CustomEntry.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Controls\\CustomEntry.cs",
+              "RelativeToolTip": "CustomInputMaui\\Controls\\CustomEntry.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:32:00.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\App.xaml.cs",
+              "RelativeToolTip": "CustomInputMaui\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:43:42.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashbordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Views\\DashbordPage.xaml.cs",
+              "RelativeDocumentMoniker": "CustomInputMaui\\Views\\DashbordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\SmartHouse\\CustomInputMaui\\Views\\DashbordPage.xaml.cs",
+              "RelativeToolTip": "CustomInputMaui\\Views\\DashbordPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:43:38.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,15 +1,14 @@
 ﻿using CustomInputMaui.Models;
-using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
+using CustomInputMaui.Views;
 using System.ComponentModel;
 using System.Windows.Input;
 
 namespace CustomInputMaui.ViewModels
 {
-    public class AuthentificationViewModel : BindableObject, INotifyPropertyChanged
+    public class AuthentificationViewModel : BindableObject,INotifyPropertyChanged
     {
         #region Attribute 
+        public INavigation Navigation { get; set; }
 
         private string _Email;
         public string Email
@@ -43,8 +42,9 @@ namespace CustomInputMaui.ViewModels
 
         #region Contractor
         
-        public AuthentificationViewModel()
+        public AuthentificationViewModel(INavigation navigation)
         {
+            this.Navigation = navigation;
         }
 
         #endregion
@@ -67,9 +67,7 @@ namespace CustomInputMaui.ViewModels
                         Password = Password
                     };
 
-                    //  i will  call apis in this  and i will check
-                    //  about  resulte  of  api  if user  connectced
-                    //  i will move it  to  devices screen
+                    Application.Current.MainPage = new NavigationPage(new DashbordPage());
                 }
                 else
                 {

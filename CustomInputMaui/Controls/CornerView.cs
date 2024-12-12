@@ -32,7 +32,6 @@ namespace CustomInputMaui.Controls
                     case ControlStyleCorner.RoundCorner:
                         this.CornerRadius = (float)this.Height / 2;
                         break;
-
                 };
             };
         }

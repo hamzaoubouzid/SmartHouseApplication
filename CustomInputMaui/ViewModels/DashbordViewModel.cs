@@ -11,7 +11,6 @@ namespace CustomInputMaui.ViewModels
     {
         public DashbordViewModel()
         {
-                
         }
 
     }

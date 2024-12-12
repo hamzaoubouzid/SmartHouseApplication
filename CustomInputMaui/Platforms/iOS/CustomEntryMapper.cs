@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using CoreGraphics;
+﻿using CoreGraphics;
 using SmartHouseApp.Controls;
 using Microsoft.Maui.Handlers;
 using Microsoft.Maui.Platform;
@@ -21,12 +16,10 @@ namespace SmartHouseApp.Platforms
                 var viewData = (CustomEntry)view;
 
                 UpdateBackground(casted.PlatformView, viewData);
-
-                var paddingViewLeft = new UIView(new CGRect(0, 0, 10, 0)); // Hardcoded for now
+                var paddingViewLeft = new UIView(new CGRect(0, 0, 10, 0));
                 casted.PlatformView.LeftView = paddingViewLeft;
                 casted.PlatformView.LeftViewMode = UITextFieldViewMode.Always;
-
-                var paddingViewRight = new UIView(new CGRect(0, 0, 10, 0)); // Hardcoded for now
+                var paddingViewRight = new UIView(new CGRect(0, 0, 10, 0));
                 casted.PlatformView.RightView = paddingViewRight;
                 casted.PlatformView.RightViewMode = UITextFieldViewMode.Always;
             }

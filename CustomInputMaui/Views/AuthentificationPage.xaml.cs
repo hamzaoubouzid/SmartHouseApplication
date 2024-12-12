@@ -7,6 +7,6 @@ public partial class AuthentificationPage : ContentPage
 	public AuthentificationPage()
 	{
 		InitializeComponent();
-		BindingContext = new AuthentificationViewModel();
+        BindingContext = new AuthentificationViewModel(Navigation);
     }
 }

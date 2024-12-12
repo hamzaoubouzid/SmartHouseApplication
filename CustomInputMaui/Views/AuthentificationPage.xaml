@@ -71,7 +71,9 @@
                     Text="{Binding Email}"
                     Margin="10,10"
                     BorderColor="White" 
+                    TextColor="White"
                     BorderThickness="2" 
+                    PlaceholderColor="White"
                     CornerRadius="10" 
                     Grid.Row="2"
                     HeightRequest="60">
@@ -81,8 +83,10 @@
                     Placeholder="    Password"
                     Keyboard="Text"
                     Text="{Binding Password}" 
+                    PlaceholderColor="White"
                     IsPassword="False"
                     Margin="10,10"
+                    TextColor="White"
                     BorderColor="White" 
                     BorderThickness="2" 
                     CornerRadius="10" 
@@ -94,7 +98,7 @@
                           Text="Log In"  
                           Command="{Binding LoginCommand}"
                           FontAttributes="Bold"  
-                          TextColor="Black" 
+                          TextColor="White" 
                           VerticalOptions="Center" 
                           Grid.Row="4">
                         <VisualStateManager.VisualStateGroups>
